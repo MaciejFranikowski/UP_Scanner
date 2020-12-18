@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3LWxkrEsU//2Zjcxrc99gqRvZ/3KCCxfIXWgy0SzmRa+VUkjTjdPgmW9cKLUwZF25tNY+pXXHgkyMsIyE22Itw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mfran\\Documents\\github\\UP_Scanner\\UP_Scanner\\UP_Scanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mfran\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\mfran\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\mfran\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
